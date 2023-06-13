@@ -10,3 +10,6 @@ def subtratction(a,b):
     return a-b
 
 print(subtratction(10,3))
+
+print(subtratction(10,3))
+
